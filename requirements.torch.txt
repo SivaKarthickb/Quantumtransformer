@@ -1,0 +1,8 @@
+torch==1.7.1
+torchtext==0.8
+pennylane
+matplotlib
+wheel
+qulacs-gpu
+tqdm
+pennylane-qulacs

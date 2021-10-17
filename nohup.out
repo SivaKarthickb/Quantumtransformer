@@ -1,0 +1,12 @@
+Quantum device: Qulacs: qulacs.simulator
+weight_shapes = (n_qlayers, n_qubits) = (1, 2)
+Training examples: 10
+Testing examples:  10
+1/1 [==============================] - ETA: 0s - loss: 0.7071 - accuracy: 0.40001/1 [==============================] - 9s 9s/step - loss: 0.7071 - accuracy: 0.4000 - val_loss: 0.6834 - val_accuracy: 0.6000
+----save model----
+Quantum device: Qulacs: qulacs.simulator
+weight_shapes = (n_qlayers, n_qubits) = (1, 2)
+Training examples: 10
+Testing examples:  10
+1/1 [==============================] - ETA: 0s - loss: 0.6934 - accuracy: 0.40001/1 [==============================] - 9s 9s/step - loss: 0.6934 - accuracy: 0.4000 - val_loss: 0.6938 - val_accuracy: 0.4000
+wall time：0h,0m,46.39042353630066sec
